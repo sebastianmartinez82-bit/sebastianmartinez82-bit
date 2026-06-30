@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Sebastian
 
-<!--
-**sebastianmartinez82-bit/sebastianmartinez82-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the developer behind **The Amazing PDF** — a free, fast, and secure tool to convert, merge, and rotate PDF files directly from your browser.
 
-Here are some ideas to get you started:
+🔗 **My project:** [TheAmazingPDF.com](https://www.theamazingpdf.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Next.js / React
+- TypeScript
+- Tailwind CSS
+- Python / FastAPI
+- Docker / Vercel
+
+### 📫 Connect with me
+- Email: info@theamazingpdf.com
